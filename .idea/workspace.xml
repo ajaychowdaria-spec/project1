@@ -4,108 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ba0af6-6d21-4669-9cfc-92d2608887fb" name="Changes" comment="#WOrld-World">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/.idea/project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/Second.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/Third.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/fifth.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project1/first.txt" afterDir="false" />
+    <list default="true" id="c5f755cd-2e97-49f4-a01c-de608b2c129a" name="Changes" comment="#changed to &quot;O&quot; to &quot;o&quot;">
+      <change afterPath="$PROJECT_DIR$/Addition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9fddce6dd68cc6a0be1df937476b560d0549689e" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ajay-annamaneni"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ajaychowdaria-spec/project1.git",
-    "accountId": "1804f8e1-9209-4f32-afa5-2871e14bb8a0"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="31vcP9POMuuvxgxAkwcMDsC5nL7" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "newbranch",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ajayc/Desktop/Testings/project1"
+    "git-widget-placeholder": "Exist"
   }
 }]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="06ba0af6-6d21-4669-9cfc-92d2608887fb" name="Changes" comment="" />
-      <created>1756407959599</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1756407959599</updated>
-    </task>
-    <task id="LOCAL-00001" summary="#changed single">
+    <task id="LOCAL-00001" summary="#changed to &quot;O&quot; to &quot;o&quot;">
       <option name="closed" value="true" />
-      <created>1756496537924</created>
+      <created>1756769910179</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1756496537924</updated>
+      <updated>1756769910179</updated>
     </task>
-    <task id="LOCAL-00002" summary="#First Java Code">
-      <option name="closed" value="true" />
-      <created>1756497785436</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1756497785436</updated>
-    </task>
-    <task id="LOCAL-00003" summary="#WOrld-World">
-      <option name="closed" value="true" />
-      <created>1756498004350</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1756498004350</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#changed single" />
-    <MESSAGE value="#First Java Code" />
-    <MESSAGE value="#WOrld-World" />
-    <option name="LAST_COMMIT_MESSAGE" value="#WOrld-World" />
+    <MESSAGE value="#changed to &quot;O&quot; to &quot;o&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="#changed to &quot;O&quot; to &quot;o&quot;" />
   </component>
 </project>
